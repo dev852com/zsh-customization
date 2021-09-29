@@ -1,4 +1,4 @@
-# zsh- Bashscript to tweak your zsh
+# zsh-customization- Bashscript to tweak your zsh
 
 ## References
 1) https://github.com/ohmyzsh/ohmyzsh
