@@ -2,6 +2,8 @@
 
 ⚠️⚠️ Running this script will alter your terminal interface ⚠️⚠️
 
+![screen-1](https://github.com/sudocraft/zsh-customization/blob/main/screenshot.png)
+
 Change to your username at 
 ```
 sudo chsh -s $(which zsh) ubuntu
