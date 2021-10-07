@@ -10,3 +10,4 @@ sudo chsh -s $(which zsh) ubuntu
 2) https://github.com/zsh-users/zsh-autosuggestions
 3) https://github.com/romkatv/powerlevel10k.git
 4) https://github.com/zsh-users/zsh-syntax-highlighting.git
+5) https://github.com/dylanaraps/neofetch
