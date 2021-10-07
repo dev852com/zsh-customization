@@ -16,6 +16,8 @@ echo "Banner /etc/banner" >> /etc/ssh/sshd_config
 sudo nano /etc/banner
 ```
 
+⚠️⚠️ Logout to take effect ⚠️⚠️
+
 # Uninstall
 
 ```
