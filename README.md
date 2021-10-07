@@ -1,17 +1,27 @@
 # zsh-customization- Bashscript to tweak your zsh
 
+⚠️⚠️ Running this script will alter your terminal interface ⚠️⚠️
+
 Change to your username at 
 ```
 sudo chsh -s $(which zsh) ubuntu
 ```
 
-Add Login banner:
+(Manual) Add Login banner:
 
 ```
 echo "Banner /etc/banner" >> /etc/ssh/sshd_config
 ```
 ```
 sudo nano /etc/banner
+```
+
+# Uninstall
+
+```
+sudo rm -rf ~/.zsh
+sudo rm -rf ~/.zshrc
+sudo chsh -s $(which /bin/bash) ubuntu
 ```
 
 ## References
